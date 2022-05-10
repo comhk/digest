@@ -1,3 +1,3 @@
-module github.com/mongodb-forks/digest
+module github.com/comhk/digest
 
 go 1.16

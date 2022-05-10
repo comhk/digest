@@ -1,6 +1,3 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/mongodb-forks/digest.svg)](https://pkg.go.dev/github.com/mongodb-forks/digest)
-[![GO tests](https://github.com/mongodb-forks/digest/actions/workflows/go-test.yml/badge.svg)](https://github.com/mongodb-forks/digest/actions/workflows/go-test.yml)
-[![golangci-lint](https://github.com/mongodb-forks/digest/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/mongodb-forks/digest/actions/workflows/golangci-lint.yml)
 # Golang HTTP Digest Authentication
 
 ## Overview
